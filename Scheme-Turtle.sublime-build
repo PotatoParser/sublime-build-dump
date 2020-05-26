@@ -1,0 +1,5 @@
+{
+	"shell_cmd": "start /min cmd /c \"python3 ./scheme \"$file\" --pillow-turtle --turtle-save-path output\"",
+	"working_dir": "$file_dir",
+	"selector": "scheme.scm"
+}

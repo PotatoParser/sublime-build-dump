@@ -1,0 +1,5 @@
+{
+	"shell_cmd": "start cmd /c \"python3 \"$file\" & pause\"",
+	"working_dir": "$file_dir",
+	"selector": "source.py"
+}

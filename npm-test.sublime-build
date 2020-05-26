@@ -1,0 +1,4 @@
+{
+	"shell_cmd": "start cmd /c \"npm test & pause\"",
+	"working_dir": "$file_dir"
+}

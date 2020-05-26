@@ -1,0 +1,5 @@
+{
+	"shell_cmd": "start cmd /c \"\"$file\" & pause\"",
+	"working_dir": "$file_dir",
+	"selector": "source.bat"
+}

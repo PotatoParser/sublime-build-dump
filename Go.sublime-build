@@ -1,0 +1,5 @@
+{
+	"shell_cmd": "start cmd /c \"go run \"$file\" & pause\"",
+	"working_dir": "$file_dir",
+	"selector": "source.go"
+}

@@ -1,0 +1,5 @@
+{
+	"shell_cmd": "start cmd /c \"node --max-old-space-size=10192 \"$file\" & pause\"",
+	"working_dir": "$file_dir",	
+	"selector": "source.js"
+}
